@@ -1,0 +1,15 @@
+phone_make = "example"
+phone_model = "i0000"
+phone_area = 3.42
+
+phone_name = f"{phone_make} {phone_model}"
+
+n1 = 6
+n2 = 6
+
+if n1 > n2:
+    print("n1 is greater than n2")
+elif n1 < n2: 
+    print("n1 is less than n2")
+else:
+    print("n1 is equal that n2")
